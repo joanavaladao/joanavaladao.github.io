@@ -2,11 +2,12 @@
 
 I am a senior IT professional, currently specializing in Mobile Application Development. Focused, determined and self-learning, with great programming logic, vast experience working with database and modeling data.
 
-##iOS Projects
 
-### Markdown
+## iOS Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### NoteTaking App 
+
+This application allows the user to write notes, take pictures, comment each image and see where the picture was taken. Everything is persisted in SQLite database.
 
 ```markdown
 Syntax highlighted code block
