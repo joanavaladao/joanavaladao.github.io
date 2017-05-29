@@ -2,6 +2,8 @@
 
 I am a senior IT professional, currently specializing in Mobile Application Development. Focused, determined and self-learning, with great programming logic, vast experience working with database and modeling data.
 
+##iOS Projects
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
