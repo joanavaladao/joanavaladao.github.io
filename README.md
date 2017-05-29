@@ -9,7 +9,6 @@ I am a senior IT professional, currently specializing in Mobile Application Deve
 
 This application allows the user to write notes, take pictures, comment each image and see where the picture was taken. Everything is persisted in SQLite database. [Click here to see the project's code](https://github.com/joanavaladao/iOS_NoteTaking)
 
-![image](https://github.com/joanavaladao/joanavaladao.github.io/blob/master/part1.png)
 
 ```markdown
 Syntax highlighted code block
