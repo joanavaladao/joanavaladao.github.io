@@ -7,7 +7,7 @@ I am a senior IT professional, currently specializing in Mobile Application Deve
 
 ### NoteTaking App 
 
-This application allows the user to write notes, take pictures, comment each image and see where the picture was taken. Everything is persisted in SQLite database.
+This application allows the user to write notes, take pictures, comment each image and see where the picture was taken. Everything is persisted in SQLite database. [Click here to see the project's code](https://github.com/joanavaladao/iOS_NoteTaking)
 
 ```markdown
 Syntax highlighted code block
